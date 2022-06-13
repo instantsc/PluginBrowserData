@@ -1,0 +1,33 @@
+name: Build processed json
+
+on:
+  push:
+    branches: [ "master" ]
+    paths:
+      - 'source.json'
+  schedule:
+    - cron: '37 1/2 * * *'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build-plugins-info:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download DataProcessor
+        run: gh release download -R instantsc/PluginBrowser -p DataProcessor && chmod +x ./DataProcessor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build processed json
+        run: mkdir output && cat source.json | ./DataProcessor > output/output.json && cat output/output.json
+        env: 
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push processed json
+        uses: JamesIves/github-pages-deploy-action@8817a56e5bfec6e2b08345c81f4d422db53a2cdc
+        with:
+          BRANCH: data
+          FOLDER: output
