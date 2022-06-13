@@ -1,0 +1,115 @@
+{
+  "Plugins": [
+    {
+      "Name": "Radar",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "Radar"
+        }
+      ],
+      "Description": "Displays the full map outline",
+      "EndorsedAuthor": "instantsc"
+    },
+    {
+      "Name": "UniqueLootHelper",
+      "OriginalAuthor": "Arecurius0",
+      "Repositories": [
+        {
+          "Author": "Arecurius0",
+          "Name": "UniqueLootHelper"
+        }
+      ],
+      "Description": "Displays outline of unidentified valuable uniques",
+      "EndorsedAuthor": "Arecurius0"
+    },
+    {
+      "Name": "AltarHelper",
+      "OriginalAuthor": "bruno105",
+      "Repositories": [
+        {
+          "Author": "bruno105",
+          "Name": "AltarHelper"
+        }
+      ],
+      "Description": "Eldritch altar choice highlighting",
+      "EndorsedAuthor": "bruno105"
+    },
+    {
+      "Name": "WhereAreYouGoing",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "ExileAPI-WhereAreYouGoing"
+        }
+      ],
+      "Description": "Displays monster pathing",
+      "EndorsedAuthor": "DetectiveSquirrel"
+    },
+    {
+      "Name": "ExpeditionIcons",
+      "OriginalAuthor": "arturino009",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "ExpeditionIcons"
+        },
+        {
+          "Author": "myrahz",
+          "Name": "ExpeditionIcons"
+        },
+        {
+          "Author": "arturino009",
+          "Name": "ExpeditionIcons"
+        }
+      ],
+      "Description": "Various improvements to the expedition world UI",
+      "EndorsedAuthor": "instantsc"
+    },
+    {
+      "Name": "NinjaPricer",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Get-Chaos-Value"
+        },
+        {
+          "Author": "IlliumIv",
+          "Name": "Get-Chaos-Value"
+        },
+        {
+          "Author": "TheOptimisticFactory",
+          "Name": "Get-Chaos-Value"
+        },
+        {
+          "Author": "instantsc",
+          "Name": "Get-Chaos-Value"
+        }
+      ],
+      "Description": "Automatic pricing for uniques, currency, and a lot of other stuff",
+      "EndorsedAuthor": "instantsc"
+    },
+    {
+      "Name": "Tradie",
+      "OriginalAuthor": "nymann",
+      "Repositories": [
+        {
+          "Author": "nymann",
+          "Name": "Tradie"
+        },
+        {
+          "Author": "IlliumIv",
+          "Name": "Tradie"
+        },
+        {
+          "Author": "TiuDerca",
+          "Name": "Tradie"
+        }
+      ],
+      "Description": "Automatic pricing for uniques, currency, and a lot of other stuff"
+    }
+  ]
+}
