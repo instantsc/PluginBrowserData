@@ -9,12 +9,21 @@ on:
     - cron: '37 1/2 * * *'
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build-plugins-info:
     runs-on: ubuntu-latest
+    env: 
+      callback_uri: ${{ secrets.callback_uri }}    
     steps:
       - uses: actions/checkout@v3
+
+      - uses: actions/checkout@v3
+        with:
+          ref: data
+          path: ./data
+
+      - name: Move original output.json
+        run: mv ./data/output.json ./data/old_output.json
 
       - name: Download DataProcessor
         run: gh release download -R instantsc/PluginBrowser -p DataProcessor && chmod +x ./DataProcessor
@@ -22,12 +31,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build processed json
-        run: mkdir output && cat source.json | ./DataProcessor > output/output.json && cat output/output.json
+        run: cat source.json | ./DataProcessor build > data/output.json && cat data/output.json
         env: 
           gh_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push processed json
-        uses: JamesIves/github-pages-deploy-action@8817a56e5bfec6e2b08345c81f4d422db53a2cdc
-        with:
-          BRANCH: data
-          FOLDER: output
+      - name: Update the data branch
+        run: git add output.json && git config user.name "instant.sc" && git config user.email "code@insc.cc" && git commit -m "Add processed output from ${{ github.sha }}" && git push
+        working-directory: ./data
+
+      - name: Build and post release notes
+        run: ./DataProcessor post-updates ./data/output.json ./data/old_output.json ${{ env.callback_uri }}
+        if: ${{ env.callback_uri != '' }}
