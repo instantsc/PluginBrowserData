@@ -8,7 +8,8 @@ on:
   schedule:
     - cron: '37 1/2 * * *'
   workflow_dispatch:
-
+concurrency:
+  group: plugin-info
 jobs:
   build-plugins-info:
     runs-on: ubuntu-latest
