@@ -37,6 +37,18 @@
       "EndorsedAuthor": "bruno105"
     },
     {
+      "Name": "BlightHelper",
+      "OriginalAuthor": "bruno105",
+      "Repositories": [
+        {
+          "Author": "bruno105",
+          "Name": "BlightHelper"
+        }
+      ],
+      "Description": "Highlights jewellery with valuable anointments",
+      "EndorsedAuthor": "bruno105"
+    },
+    {
       "Name": "WhereAreYouGoing",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
@@ -109,7 +121,7 @@
           "Name": "Tradie"
         }
       ],
-      "Description": "Automatic pricing for uniques, currency, and a lot of other stuff"
+      "Description": "Summary of the trade window contents"
     }
   ]
 }
