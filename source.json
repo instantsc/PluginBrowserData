@@ -13,6 +13,30 @@
       "EndorsedAuthor": "instantsc"
     },
     {
+      "Name": "KalandraOptimizer",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "KalandraOptimizer"
+        }
+      ],
+      "Description": "Kalandra tablet optimizer",
+      "EndorsedAuthor": "instantsc"
+    },
+    {
+      "Name": "copilot",
+      "OriginalAuthor": "totalschaden",
+      "Repositories": [
+        {
+          "Author": "totalschaden",
+          "Name": "copilot"
+        }
+      ],
+      "Description": "Various automation helpers",
+      "EndorsedAuthor": "totalschaden"
+    },
+    {
       "Name": "UniqueLootHelper",
       "OriginalAuthor": "Arecurius0",
       "Repositories": [
