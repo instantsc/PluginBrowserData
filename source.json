@@ -146,6 +146,21 @@
         }
       ],
       "Description": "Summary of the trade window contents"
+    },
+    {
+      "Name": "ProximityAlert",
+      "OriginalAuthor": "IlliumIv",
+      "Repositories": [
+        {
+          "Author": "IlliumIv",
+          "Name": "ProximityAlert"
+        },
+        {
+          "Author": "vadash",
+          "Name": "ProximityAlert"
+        }
+      ],
+      "Description": "Mod/Metadata Path Warnings"
     }
   ]
 }
