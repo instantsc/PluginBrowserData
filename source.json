@@ -161,6 +161,21 @@
         }
       ],
       "Description": "Mod/Metadata Path Warnings"
+    },
+    {
+      "Name": "ShowGroundEffects",
+      "OriginalAuthor": "arturino009",
+      "Repositories": [
+        {
+          "Author": "arturino009",
+          "Name": "ShowGroundEffects"
+        },
+        {
+          "Author": "vadash",
+          "Name": "ShowGroundEffects"
+        }
+      ],
+      "Description": "Circles for ground effect visibility"
     }
   ]
 }
