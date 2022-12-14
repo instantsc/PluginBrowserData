@@ -9,19 +9,7 @@
           "Name": "Radar"
         }
       ],
-      "Description": "Displays the full map outline",
-      "EndorsedAuthor": "instantsc"
-    },
-    {
-      "Name": "KalandraOptimizer",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "instantsc",
-          "Name": "KalandraOptimizer"
-        }
-      ],
-      "Description": "Kalandra tablet optimizer",
+      "Description": "Displays the full map outline and more",
       "EndorsedAuthor": "instantsc"
     },
     {
@@ -176,6 +164,21 @@
         }
       ],
       "Description": "Circles for ground effect visibility"
+    },
+    {
+      "Name": "DevTree",
+      "OriginalAuthor": "Qvin?",
+      "Repositories": [
+        {
+          "Author": "TehCheat",
+          "Name": "DevTree"
+        },
+        {
+          "Author": "instantsc",
+          "Name": "DevTree"
+        }
+      ],
+      "Description": "Debugging various stuff"
     }
   ]
 }
