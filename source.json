@@ -179,6 +179,17 @@
         }
       ],
       "Description": "Debugging various stuff"
+    },
+    {
+      "Name": "BetterSanctum",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "BetterSanctum"
+        }
+      ],
+      "Description": "Improves Sanctum experience. A little"
     }
   ]
 }
