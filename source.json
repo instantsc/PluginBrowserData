@@ -190,6 +190,17 @@
         }
       ],
       "Description": "Improves Sanctum experience. A little"
+    },
+    {
+      "Name": "BuffUtil",
+      "OriginalAuthor": "0xE0D59",
+      "Repositories": [
+        {
+          "Author": "0xE0D59",
+          "Name": "BuffUtil"
+        }
+      ],
+      "Description": "Uses various utility skills under specified conditions."
     }
   ]
 }
