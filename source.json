@@ -201,6 +201,17 @@
         }
       ],
       "Description": "Uses various utility skills under specified conditions."
+    },
+    {
+      "Name": "EssenceCorruptionHelper",
+      "OriginalAuthor": "deMathias",
+      "Repositories": [
+        {
+          "Author": "deMathias",
+          "Name": "EssenceCorruptionHelper"
+        }
+      ],
+      "Description": "Tags essences if they meet user specified criteria."
     }
   ]
 }
