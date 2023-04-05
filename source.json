@@ -13,6 +13,18 @@
       "EndorsedAuthor": "instantsc"
     },
     {
+      "Name": "ReAgent",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "ReAgent"
+        }
+      ],
+      "Description": "Universal condition-action mapping plugin",
+      "EndorsedAuthor": "exApiTools"
+    },
+    {
       "Name": "copilot",
       "OriginalAuthor": "totalschaden",
       "Repositories": [
