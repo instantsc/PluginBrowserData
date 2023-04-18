@@ -224,6 +224,18 @@
         }
       ],
       "Description": "Tags essences if they meet user specified criteria."
+    },
+    {
+      "Name": "SkillGems",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "SkillGems"
+        }
+      ],
+      "Description": "Fast Level Gems on the side",
+      "EndorsedAuthor": "DetectiveSquirrel"
     }
   ]
 }
