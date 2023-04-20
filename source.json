@@ -236,6 +236,17 @@
       ],
       "Description": "Fast Level Gems on the side",
       "EndorsedAuthor": "DetectiveSquirrel"
+    },
+    {
+      "Name": "BroodyHen",
+      "OriginalAuthor": "IlliumIv",
+      "Repositories": [
+        {
+          "Author": "IlliumIv",
+          "Name": "BroodyHen"
+        }
+      ],
+      "Description": "Displays a frame above non-incubated items.",
     }
   ]
 }
