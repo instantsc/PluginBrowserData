@@ -247,6 +247,17 @@
         }
       ],
       "Description": "Displays a frame above non-incubated items."
+    },
+    {
+      "Name": "MapNotify",
+      "OriginalAuthor": "Lachrymatory,Sirais,IlliumIv",
+      "Repositories": [
+        {
+          "Author": "Xcesius",
+          "Name": "MapNotify"
+        }
+      ],
+      "Description": "Displays various of map information on mouse cursor/inventory"
     }
   ]
 }
