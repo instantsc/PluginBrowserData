@@ -204,6 +204,28 @@
       "Description": "Improves Sanctum experience. A little"
     },
     {
+      "Name": "HarvestPicker",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "HarvestPicker"
+        }
+      ],
+      "Description": "Calculates harvest plot values"
+    },
+    {
+      "Name": "AncestorQol",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Name": "AncestorQol"
+        }
+      ],
+      "Description": "Displays tooltips for Ancestor league"
+    },
+    {
       "Name": "BuffUtil",
       "OriginalAuthor": "0xE0D59",
       "Repositories": [
@@ -258,6 +280,17 @@
         }
       ],
       "Description": "Displays various of map information on mouse cursor/inventory"
+    },
+    {
+      "Name": "EZVendor",
+      "OriginalAuthor": "vadash",
+      "Repositories": [
+        {
+          "Author": "vadash",
+          "Name": "EZVendor"
+        }
+      ],
+      "Description": "Vendors useless items"
     }
   ]
 }
