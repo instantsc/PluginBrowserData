@@ -237,6 +237,21 @@
       "Description": "Uses various utility skills under specified conditions."
     },
     {
+      "Name": "FullRareSetManager",
+      "OriginalAuthor": "Stridemann",
+      "Repositories": [
+        {
+          "Author": "bruno105",
+          "Name": "FullRareSetManager"
+        },
+        {
+          "Author": "exApiTools",
+          "Name": "FullRareSetManager"
+        }
+      ],
+      "Description": "Manages chaos recipe sets"
+    },
+    {
       "Name": "EssenceCorruptionHelper",
       "OriginalAuthor": "deMathias",
       "Repositories": [
