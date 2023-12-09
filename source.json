@@ -308,7 +308,7 @@
       "Description": "Vendors useless items"
     },
     {
-      "Name": "StashieWithLinq",
+      "Name": "Stashie",
       "OriginalAuthor": "nymann",
       "Repositories": [
         {
@@ -316,10 +316,10 @@
           "Name": "Stashie"
         }
       ],
-      "Description": "Filters items based on ItemFilterLibrary rules"
+      "Description": "Stash management"
     },
     {
-      "Name": "PickItV2WithLinq",
+      "Name": "PickItV2",
       "OriginalAuthor": "exApiTools",
       "Repositories": [
         {
@@ -327,7 +327,7 @@
           "Name": "PickItV2"
         }
       ],
-      "Description": "Pickup items based on ItemFilterLibrary rules"
+      "Description": "Picks up items"
     },
     {
       "Name": "NPCInventoryWithLinq",
@@ -338,18 +338,18 @@
           "Name": "NPCInvWithLinq"
         }
       ],
-      "Description": "Highlight NPC items based on ItemFilterLibrary rules"
+      "Description": "Highlights NPC items based on ItemFilterLibrary rules"
     },
     {
       "Name": "GroundItemsWithLinq",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
-          "Author": "exApiTools",
+          "Author": "DetectiveSquirrel",
           "Name": "Ground-Items-With-Linq"
         }
       ],
-      "Description": "Show items on the ground based on ItemFilterLibrary rules"
+      "Description": "Shows items on the ground based on ItemFilterLibrary rules"
     },
     {
       "Name": "InventoryItemsWithLinq",
@@ -360,7 +360,7 @@
           "Name": "ExileAPI-InvWithLinq"
         }
       ],
-      "Description": "Show items on the ground based on ItemFilterLibrary rules"
+      "Description": "Highlights inventory items"
     },
     {
       "Name": "WhereTheWispsAt",
@@ -369,20 +369,13 @@
         {
           "Author": "DetectiveSquirrel",
           "Name": "WhereTheWispsAt"
-        }
-      ],
-      "Description": "Display Afflication zone wisps & Others"
-    },
-    {
-      "Name": "WhereAreYouGoing",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
+        },
         {
-          "Author": "DetectiveSquirrel",
-          "Name": "ExileAPI-WhereAreYouGoing"
+          "Author": "exApiTools",
+          "Name": "WhereTheWispsAt"
         }
       ],
-      "Description": "Display Entity movements"
+      "Description": "Displays Afflication zone wisps & Others"
     },
     {
       "Name": "WhatAreYouDoing",
@@ -393,7 +386,7 @@
           "Name": "WhatAreYouDoing"
         }
       ],
-      "Description": "Display Labyrinth trap movements"
+      "Description": "Displays Labyrinth trap movements"
     },
     {
       "Name": "GuardianStats",
