@@ -394,6 +394,17 @@
         }
       ],
       "Description": "Displays meaningful information about your Guardian"
+    },
+    {
+      "Name": "UniqueFinder",
+      "OriginalAuthor": "Relvl",
+      "Repositories": [
+        {
+          "Author": "Relvl",
+          "Name": "POE_API_UniqueFinder"
+        }
+      ],
+      "Description": "Highlight desired unidentified items like Headhinter and Mageblood in your screen"
     }
   ]
 }
