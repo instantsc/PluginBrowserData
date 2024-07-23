@@ -394,6 +394,28 @@
         }
       ],
       "Description": "Displays meaningful information about your Guardian"
+    },
+    {
+      "Name": "LevelingHelper",
+      "OriginalAuthor": "TehCheat",
+      "Repositories": [
+        {
+          "Author": "TehCheat",
+          "Name": "LevelingHelper"
+        }
+      ],
+      "Description": "Suggests killing more/less monsters during leveling"
+    },
+    {
+      "Name": "AtlasHelper",
+      "OriginalAuthor": "myrahz",
+      "Repositories": [
+        {
+          "Author": "myrahz",
+          "Name": "AtlasHelper"
+        }
+      ],
+      "Description": "Suggests best maps to run based on completion/upgrade drop chance"
     }
   ]
 }
