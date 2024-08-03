@@ -416,6 +416,18 @@
         }
       ],
       "Description": "Suggests best maps to run based on completion/upgrade drop chance"
+    },
+    {
+      "Name": "VillageHelper",
+      "OriginalAuthor": "instantsc",
+      "Repositories": [
+        {
+          "Author": "instantsc",
+          "Location": "exApiTools",
+          "Name": "VillageHelper"
+        }
+      ],
+      "Description": "Helps with the 3.25 league management"
     }
   ]
 }
