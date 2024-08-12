@@ -195,6 +195,10 @@
         {
           "Author": "instantsc",
           "Name": "BetterSanctum"
+        },
+        {
+          "Author": "ChandlerFerry",
+          "Name": "PathfindSanctum"
         }
       ],
       "Description": "Improves Sanctum experience. A little"
