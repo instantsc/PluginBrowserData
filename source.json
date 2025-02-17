@@ -189,19 +189,15 @@
       "Description": "Debugging various stuff"
     },
     {
-      "Name": "BetterSanctum",
+      "Name": "PathfindSanctum",
       "OriginalAuthor": "instantsc",
       "Repositories": [
         {
-          "Author": "instantsc",
-          "Name": "BetterSanctum"
-        },
-        {
-          "Author": "ChandlerFerry",
+          "Author": "deafwave",
           "Name": "PathfindSanctum"
         }
       ],
-      "Description": "Improves Sanctum experience. A little"
+      "Description": "Improves Sanctum experience."
     },
     {
       "Name": "HarvestPicker",
