@@ -357,10 +357,10 @@
       "Repositories": [
         {
           "Author": "mikkelpetersen",
-          "Name": "ExileAPI-InvWithLinq"
+          "Name": "InvWithLinq"
         }
       ],
-      "Description": "Highlights inventory items"
+      "Description": "Highlights inventory items using ItemFilterLibrary rules"
     },
     {
       "Name": "WhereTheWispsAt",
@@ -432,6 +432,136 @@
         }
       ],
       "Description": "Helps with the 3.25 league management"
+    },
+    {
+      "Name": "ItemFilterLibInspector",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "IFL Inspector"
+        }
+      ],
+      "Description": "Helps view items as ItemFilterLibrary objects"
+    },
+    {
+      "Name": "WheresMyCraftAt",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Wheres My Craft At"
+        }
+      ],
+      "Description": "Craft automation built around Craft of Exile simulator style utilizing ItemFilterLibrary"
+    },
+    {
+      "Name": "AreaStatVisual",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Area Stat Visual"
+        }
+      ],
+      "Description": "Gives visual popups for any tracked MapStats mods for instances"
+    },
+    {
+      "Name": "Blight",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Blight Paths"
+        }
+      ],
+      "Description": "Provides awareness of blight paths and tower build radius"
+    },
+    {
+      "Name": "Abyss",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Abyss Paths"
+        }
+      ],
+      "Description": "Provides awareness of Abyss paths"
+    },
+    {
+      "Name": "Character-Data",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Character Data"
+        }
+      ],
+      "Description": "Shows per isntance your character progress and or other stats such as resistances"
+    },
+    {
+      "Name": "WhereTheCirclesAt",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Where The Circles At"
+        }
+      ],
+      "Description": "Draws user set circles around the player with defines distances and colors on both minimap or the world"
+    },
+    {
+      "Name": "Wheres-My-Cursor",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "Wheres My Cursor"
+        }
+      ],
+      "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it"
+    },
+    {
+      "Name": "HighlightedItems",
+      "OriginalAuthor": "ravand1990",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "HighlightedItems"
+        }
+      ],
+      "Description": "Highlights items in stash or inventory with ItemFilterLibrary queries with the ability to save"
+    },
+    {
+      "Name": "AdvancedUberLabLayout",
+      "OriginalAuthor": "TehCheat",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "AdvancedUberLabLayout"
+        }
+      ],
+      "Description": "Displays the current days Labyrinth from www.poelab.com"
+    },
+    {
+      "Name": "MinimapIcons",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "MinimapIcons"
+        }
+      ],
+      "Description": "Displays various monsters and objects on the minimap"
+    },
+    {
+      "Name": "HealthBars",
+      "Repositories": [
+        {
+          "Author": "exApiTools",
+          "Name": "HealthBars"
+        }
+      ],
+      "Description": "Displays monster Health Bars"
     }
   ]
 }
