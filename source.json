@@ -126,7 +126,7 @@
     },
     {
       "Name": "Tradie",
-      "OriginalAuthor": "nymann",
+      "OriginalAuthor": "nymann, DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "nymann",
@@ -141,7 +141,8 @@
           "Name": "Tradie"
         }
       ],
-      "Description": "Summary of the trade window contents"
+      "Description": "Summary of the trade window contents",
+      "EndorsedAuthor": "Tradie"
     },
     {
       "Name": "ProximityAlert",
@@ -156,7 +157,8 @@
           "Name": "ProximityAlert"
         }
       ],
-      "Description": "Mod/Metadata Path Warnings"
+      "Description": "Mod/Metadata Path Warnings",
+      "EndorsedAuthor": "vadash"
     },
     {
       "Name": "ShowGroundEffects",
@@ -171,7 +173,8 @@
           "Name": "ShowGroundEffects"
         }
       ],
-      "Description": "Circles for ground effect visibility"
+      "Description": "Circles for ground effect visibility",
+      "EndorsedAuthor": "arturino009"
     },
     {
       "Name": "DevTree",
@@ -186,7 +189,8 @@
           "Name": "DevTree"
         }
       ],
-      "Description": "Debugging various stuff"
+      "Description": "Debugging various stuff",
+      "EndorsedAuthor": "instantsc"
     },
     {
       "Name": "BetterSanctum",
@@ -201,7 +205,8 @@
           "Name": "PathfindSanctum"
         }
       ],
-      "Description": "Improves Sanctum experience. A little"
+      "Description": "Improves Sanctum experience. A little",
+      "EndorsedAuthor": "instantsc"
     },
     {
       "Name": "HarvestPicker",
@@ -212,7 +217,8 @@
           "Name": "HarvestPicker"
         }
       ],
-      "Description": "Calculates harvest plot values"
+      "Description": "Calculates harvest plot values",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "AncestorQol",
@@ -223,7 +229,8 @@
           "Name": "AncestorQol"
         }
       ],
-      "Description": "Displays tooltips for Ancestor league"
+      "Description": "Displays tooltips for Ancestor league",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "BuffUtil",
@@ -234,7 +241,8 @@
           "Name": "BuffUtil"
         }
       ],
-      "Description": "Uses various utility skills under specified conditions."
+      "Description": "Uses various utility skills under specified conditions.",
+      "EndorsedAuthor": "0xE0D59"
     },
     {
       "Name": "FullRareSetManager",
@@ -249,7 +257,8 @@
           "Name": "FullRareSetManager"
         }
       ],
-      "Description": "Manages chaos recipe sets"
+      "Description": "Manages chaos recipe sets",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "EssenceCorruptionHelper",
@@ -260,7 +269,8 @@
           "Name": "EssenceCorruptionHelper"
         }
       ],
-      "Description": "Tags essences if they meet user specified criteria."
+      "Description": "Tags essences if they meet user specified criteria.",
+      "EndorsedAuthor": "deMathias"
     },
     {
       "Name": "SkillGems",
@@ -283,7 +293,8 @@
           "Name": "BroodyHen"
         }
       ],
-      "Description": "Displays a frame above non-incubated items."
+      "Description": "Displays a frame above non-incubated items.",
+      "EndorsedAuthor": "IlliumIv"
     },
     {
       "Name": "MapNotify",
@@ -294,7 +305,8 @@
           "Name": "MapNotify"
         }
       ],
-      "Description": "Displays various of map information on mouse cursor/inventory"
+      "Description": "Displays various of map information on mouse cursor/inventory",
+      "EndorsedAuthor": "Xcesius"
     },
     {
       "Name": "EZVendor",
@@ -305,7 +317,8 @@
           "Name": "EZVendor"
         }
       ],
-      "Description": "Vendors useless items"
+      "Description": "Vendors useless items",
+      "EndorsedAuthor": "vadash"
     },
     {
       "Name": "Stashie",
@@ -316,7 +329,8 @@
           "Name": "Stashie"
         }
       ],
-      "Description": "Stash management"
+      "Description": "Stash management",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "PickItV2",
@@ -327,7 +341,8 @@
           "Name": "PickItV2"
         }
       ],
-      "Description": "Picks up items"
+      "Description": "Picks up items",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "NPCInventoryWithLinq",
@@ -338,7 +353,8 @@
           "Name": "NPCInvWithLinq"
         }
       ],
-      "Description": "Highlights NPC items based on ItemFilterLibrary rules"
+      "Description": "Highlights NPC items based on ItemFilterLibrary rules",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "GroundItemsWithLinq",
@@ -349,7 +365,8 @@
           "Name": "Ground-Items-With-Linq"
         }
       ],
-      "Description": "Shows items on the ground based on ItemFilterLibrary rules"
+      "Description": "Shows items on the ground based on ItemFilterLibrary rules",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "InventoryItemsWithLinq",
@@ -360,7 +377,8 @@
           "Name": "InvWithLinq"
         }
       ],
-      "Description": "Highlights inventory items using ItemFilterLibrary rules"
+      "Description": "Highlights inventory items using ItemFilterLibrary rules",
+      "EndorsedAuthor": "mikkelpetersen"
     },
     {
       "Name": "WhereTheWispsAt",
@@ -375,7 +393,8 @@
           "Name": "WhereTheWispsAt"
         }
       ],
-      "Description": "Displays Afflication zone wisps & Others"
+      "Description": "Displays Afflication zone wisps & Others",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "WhatAreYouDoing",
@@ -386,7 +405,8 @@
           "Name": "WhatAreYouDoing"
         }
       ],
-      "Description": "Displays Labyrinth trap movements"
+      "Description": "Displays Labyrinth trap movements",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "GuardianStats",
@@ -397,7 +417,8 @@
           "Name": "Guardians-R-Us"
         }
       ],
-      "Description": "Displays meaningful information about your Guardian"
+      "Description": "Displays meaningful information about your Guardian",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "LevelingHelper",
@@ -408,7 +429,8 @@
           "Name": "LevelingHelper"
         }
       ],
-      "Description": "Suggests killing more/less monsters during leveling"
+      "Description": "Suggests killing more/less monsters during leveling",
+      "EndorsedAuthor": "TehCheat"
     },
     {
       "Name": "AtlasHelper",
@@ -419,7 +441,8 @@
           "Name": "AtlasHelper"
         }
       ],
-      "Description": "Suggests best maps to run based on completion/upgrade drop chance"
+      "Description": "Suggests best maps to run based on completion/upgrade drop chance",
+      "EndorsedAuthor": "myrahz"
     },
     {
       "Name": "VillageHelper",
@@ -431,95 +454,104 @@
           "Name": "VillageHelper"
         }
       ],
-      "Description": "Helps with the 3.25 league management"
+      "Description": "Helps with the 3.25 league management",
+      "EndorsedAuthor": "VillageHelper"
     },
     {
-      "Name": "ItemFilterLibInspector",
+      "Name": "IFL Inspector",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "IFL Inspector"
+          "Name": "ItemFilterLibInspector"
         }
       ],
-      "Description": "Helps view items as ItemFilterLibrary objects"
+      "Description": "Helps view items as ItemFilterLibrary objects",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "WheresMyCraftAt",
+      "Name": "Wheres My Craft At",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Wheres My Craft At"
+          "Name": "WheresMyCraftAt"
         }
       ],
-      "Description": "Craft automation built around Craft of Exile simulator style utilizing ItemFilterLibrary"
+      "Description": "Craft automation built around Craft of Exile simulator style utilizing ItemFilterLibrary",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "AreaStatVisual",
+      "Name": "Area Stat Visual",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Area Stat Visual"
+          "Name": "AreaStatVisual"
         }
       ],
-      "Description": "Gives visual popups for any tracked MapStats mods for instances"
+      "Description": "Gives visual popups for any tracked MapStats mods for instances",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "Blight",
+      "Name": " Paths",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Blight Paths"
+          "Name": "Blight"
         }
       ],
-      "Description": "Provides awareness of blight paths and tower build radius"
+      "Description": "Provides awareness of blight paths and tower build radius",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "Abyss",
+      "Name": "Abyss Paths",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Abyss Paths"
+          "Name": "Abyss"
         }
       ],
-      "Description": "Provides awareness of Abyss paths"
+      "Description": "Provides awareness of Abyss paths",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "Character-Data",
+      "Name": "Character Data",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Character Data"
+          "Name": "Character-Data"
         }
       ],
-      "Description": "Shows per isntance your character progress and or other stats such as resistances"
+      "Description": "Shows per isntance your character progress and or other stats such as resistances",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "WhereTheCirclesAt",
+      "Name": "Where The Circles At",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Where The Circles At"
+          "Name": "WhereTheCirclesAt"
         }
       ],
-      "Description": "Draws user set circles around the player with defines distances and colors on both minimap or the world"
+      "Description": "Draws user set circles around the player with defines distances and colors on both minimap or the world",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
-      "Name": "Wheres-My-Cursor",
+      "Name": "Wheres My Cursor",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
           "Author": "DetectiveSquirrel",
-          "Name": "Wheres My Cursor"
+          "Name": "Wheres-My-Cursor"
         }
       ],
-      "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it"
+      "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "HighlightedItems",
@@ -530,7 +562,8 @@
           "Name": "HighlightedItems"
         }
       ],
-      "Description": "Highlights items in stash or inventory with ItemFilterLibrary queries with the ability to save"
+      "Description": "Highlights items in stash or inventory with ItemFilterLibrary queries with the ability to save",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "AdvancedUberLabLayout",
@@ -541,27 +574,32 @@
           "Name": "AdvancedUberLabLayout"
         }
       ],
-      "Description": "Displays the current days Labyrinth from www.poelab.com"
+      "Description": "Displays the current days Labyrinth from www.poelab.com",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "MinimapIcons",
+      "OriginalAuthor": "Core",
       "Repositories": [
         {
           "Author": "exApiTools",
           "Name": "MinimapIcons"
         }
       ],
-      "Description": "Displays various monsters and objects on the minimap"
+      "Description": "Displays various monsters and objects on the minimap",
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "HealthBars",
+      "OriginalAuthor": "Core",
       "Repositories": [
         {
           "Author": "exApiTools",
           "Name": "HealthBars"
         }
       ],
-      "Description": "Displays monster Health Bars"
+      "Description": "Displays monster Health Bars",
+      "EndorsedAuthor": "exApiTools"
     }
   ]
 }
