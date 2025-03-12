@@ -25,30 +25,6 @@
       "EndorsedAuthor": "exApiTools"
     },
     {
-      "Name": "copilot",
-      "OriginalAuthor": "totalschaden",
-      "Repositories": [
-        {
-          "Author": "totalschaden",
-          "Name": "copilot"
-        }
-      ],
-      "Description": "Various automation helpers",
-      "EndorsedAuthor": "totalschaden"
-    },
-    {
-      "Name": "UniqueLootHelper",
-      "OriginalAuthor": "Arecurius0",
-      "Repositories": [
-        {
-          "Author": "Arecurius0",
-          "Name": "UniqueLootHelper"
-        }
-      ],
-      "Description": "Displays outline of unidentified valuable uniques",
-      "EndorsedAuthor": "Arecurius0"
-    },
-    {
       "Name": "AltarHelper",
       "OriginalAuthor": "bruno105",
       "Repositories": [
@@ -125,26 +101,6 @@
       "EndorsedAuthor": "instantsc"
     },
     {
-      "Name": "Tradie",
-      "OriginalAuthor": "nymann, DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "nymann",
-          "Name": "Tradie"
-        },
-        {
-          "Author": "IlliumIv",
-          "Name": "Tradie"
-        },
-        {
-          "Author": "TiuDerca",
-          "Name": "Tradie"
-        }
-      ],
-      "Description": "Summary of the trade window contents",
-      "EndorsedAuthor": "Tradie"
-    },
-    {
       "Name": "ProximityAlert",
       "OriginalAuthor": "Lachrymatory",
       "Repositories": [
@@ -181,16 +137,12 @@
       "OriginalAuthor": "Qvin?",
       "Repositories": [
         {
-          "Author": "TehCheat",
-          "Name": "DevTree"
-        },
-        {
-          "Author": "instantsc",
+          "Author": "exApiTools",
           "Name": "DevTree"
         }
       ],
       "Description": "Debugging various stuff",
-      "EndorsedAuthor": "instantsc"
+      "EndorsedAuthor": "exApiTools"
     },
     {
       "Name": "BetterSanctum",
@@ -206,7 +158,7 @@
         }
       ],
       "Description": "Improves Sanctum experience. A little",
-      "EndorsedAuthor": "instantsc"
+      "EndorsedAuthor": "ChandlerFerry"
     },
     {
       "Name": "HarvestPicker",
@@ -219,30 +171,6 @@
       ],
       "Description": "Calculates harvest plot values",
       "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "AncestorQol",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "AncestorQol"
-        }
-      ],
-      "Description": "Displays tooltips for Ancestor league",
-      "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "BuffUtil",
-      "OriginalAuthor": "0xE0D59",
-      "Repositories": [
-        {
-          "Author": "0xE0D59",
-          "Name": "BuffUtil"
-        }
-      ],
-      "Description": "Uses various utility skills under specified conditions.",
-      "EndorsedAuthor": "0xE0D59"
     },
     {
       "Name": "FullRareSetManager",
@@ -526,7 +454,7 @@
           "Name": "Character-Data"
         }
       ],
-      "Description": "Shows per isntance your character progress and or other stats such as resistances",
+      "Description": "Shows your character progress per instance and/or other stats such as resistances",
       "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
@@ -552,54 +480,6 @@
       ],
       "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it",
       "EndorsedAuthor": "DetectiveSquirrel"
-    },
-    {
-      "Name": "HighlightedItems",
-      "OriginalAuthor": "ravand1990",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "HighlightedItems"
-        }
-      ],
-      "Description": "Highlights items in stash or inventory with ItemFilterLibrary queries with the ability to save",
-      "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "AdvancedUberLabLayout",
-      "OriginalAuthor": "TehCheat",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "AdvancedUberLabLayout"
-        }
-      ],
-      "Description": "Displays the current days Labyrinth from www.poelab.com",
-      "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "MinimapIcons",
-      "OriginalAuthor": "Core",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "MinimapIcons"
-        }
-      ],
-      "Description": "Displays various monsters and objects on the minimap",
-      "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "HealthBars",
-      "OriginalAuthor": "Core",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "HealthBars"
-        }
-      ],
-      "Description": "Displays monster Health Bars",
-      "EndorsedAuthor": "exApiTools"
     }
   ]
 }
