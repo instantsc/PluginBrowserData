@@ -480,6 +480,17 @@
       ],
       "Description": "Draws a line in a few styles from the player to the users cursor to keep track of it",
       "EndorsedAuthor": "DetectiveSquirrel"
+    },
+    {
+      "Name": "Preloads Revised",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "PreloadsRevised-poe1"
+        }
+      ],
+      "Description": "Shows configured preloads in the instance"
     }
   ]
 }
