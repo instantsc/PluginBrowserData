@@ -491,6 +491,17 @@
         }
       ],
       "Description": "Shows configured preloads in the instance"
+    },
+    {
+      "Name": "WhereMyFavsAt",
+      "OriginalAuthor": "deMathias",
+      "Repositories": [
+        {
+          "Author": "deMathias",
+          "Name": "WhereMyFavsAt"
+        }
+      ],
+      "Description": "Favourite Items for quick select in the Currency Exchange."
     }
   ]
 }
