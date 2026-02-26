@@ -225,18 +225,6 @@
       "EndorsedAuthor": "IlliumIv"
     },
     {
-      "Name": "MapNotify",
-      "OriginalAuthor": "Lachrymatory,Sirais,IlliumIv",
-      "Repositories": [
-        {
-          "Author": "Xcesius",
-          "Name": "MapNotify"
-        }
-      ],
-      "Description": "Displays various of map information on mouse cursor/inventory",
-      "EndorsedAuthor": "Xcesius"
-    },
-    {
       "Name": "EZVendor",
       "OriginalAuthor": "vadash",
       "Repositories": [
@@ -359,18 +347,6 @@
       ],
       "Description": "Suggests killing more/less monsters during leveling",
       "EndorsedAuthor": "TehCheat"
-    },
-    {
-      "Name": "AtlasHelper",
-      "OriginalAuthor": "myrahz",
-      "Repositories": [
-        {
-          "Author": "myrahz",
-          "Name": "AtlasHelper"
-        }
-      ],
-      "Description": "Suggests best maps to run based on completion/upgrade drop chance",
-      "EndorsedAuthor": "myrahz"
     },
     {
       "Name": "VillageHelper",
