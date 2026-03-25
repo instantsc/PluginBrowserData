@@ -478,6 +478,18 @@
         }
       ],
       "Description": "Favourite Items for quick select in the Currency Exchange."
+    },
+    {
+      "Name": "Beasts",
+      "OriginalAuthor": "danio0106",
+      "Repositories": [
+        {
+          "Author": "bruno105",
+          "Name": "Beasts"
+        }
+      ],
+      "Description": "Tracks, prices and automatically processes captured beasts in the Bestiary.e.",
+      "EndorsedAuthor": "bruno105"
     }
   ]
 }
