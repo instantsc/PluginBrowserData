@@ -491,5 +491,17 @@
       "Description": "Tracks, prices and automatically processes captured beasts in the Bestiary.e.",
       "EndorsedAuthor": "bruno105"
     }
+    {
+      "Name": "ClickIt",
+      "OriginalAuthor": "Arecurius0",
+      "Repositories": [
+        {
+          "Author": "Barragek0",
+          "Name": "ClickIt"
+        }
+      ],
+      "Description": "Clicks items and (almost) every mechanic for you",
+      "EndorsedAuthor": "BarrageK0"
+    }
   ]
 }
