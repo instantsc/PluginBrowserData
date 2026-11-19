@@ -490,6 +490,30 @@
       ],
       "Description": "Tracks, prices and automatically processes captured beasts in the Bestiary.e.",
       "EndorsedAuthor": "bruno105"
+    },
+    {
+      "Name": "MonsterModAlerter",
+      "OriginalAuthor": "bnc-anonymous",
+      "Repositories": [
+        {
+          "Author": "bnc-anonymous",
+          "Name": "MonsterModAlerter"
+        }
+      ],
+      "Description": "Highlights monsters by mods or buffs, on the map or in the world.",
+      "EndorsedAuthor": "bnc-anonymous"
+    },
+    {
+      "Name": "AutoAugury",
+      "OriginalAuthor": "bnc-anonymous",
+      "Repositories": [
+        {
+          "Author": "bnc-anonymous",
+          "Name": "ExileApi-AutoAugury"
+        }
+      ],
+      "Description": "Highlights Augury Fate cards by customisable weights (3.30 league mechanic).",
+      "EndorsedAuthor": "bnc-anonymous"
     }
   ]
 }
