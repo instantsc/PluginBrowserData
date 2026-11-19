@@ -422,7 +422,8 @@
           "Name": "PreloadsRevised-poe1"
         }
       ],
-      "Description": "Shows configured preloads in the instance"
+      "Description": "Shows configured preloads in the instance",
+      "EndorsedAuthor": "DetectiveSquirrel"
     },
     {
       "Name": "WhereMyFavsAt",
@@ -433,7 +434,8 @@
           "Name": "WhereMyFavsAt"
         }
       ],
-      "Description": "Favourite Items for quick select in the Currency Exchange."
+      "Description": "Favourite Items for quick select in the Currency Exchange.",
+      "EndorsedAuthor": "deMathias"
     },
     {
       "Name": "Beasts",
